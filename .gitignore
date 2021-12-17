@@ -1,0 +1,5 @@
+problems/
+slides/
+*.ipynb_checkpoints/
+*extra_material/
+*_solutions.ipynb
