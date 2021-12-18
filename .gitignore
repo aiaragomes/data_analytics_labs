@@ -3,3 +3,5 @@ slides/
 *.ipynb_checkpoints/
 *extra_material/
 *_solutions.ipynb
+*solutions_students/
+*zoom/
